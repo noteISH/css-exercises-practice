@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.button{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+#Me{
+    color:white;
+    background-color:#000000;
+}
+
+#No{
+    color:black;
+    background-color:yellow;
+}
